@@ -12,4 +12,9 @@
   "profile": {
     "name": "typicode"
   }
+  "strings":{
+    "name":"h",
+    "id":"12525",
+    "country":"India"
+  }
 }
