@@ -1,9 +1,8 @@
 
 {
   "posts":
-  {"values":
-    [ 
-      { "id": 1, "title": "Post 1" , "url":"https://pixabay.com/photos/oak-tree-deciduous-tree-leaves-3064187/"
+   {"values":
+    [ { "id": 1, "title": "Post 1" , "url":"https://pixabay.com/photos/oak-tree-deciduous-tree-leaves-3064187/"
       },
       { "id": 2, "title": "Post 2" , "url":"https://pixabay.com/photos/tree-oak-landscape-view-field-402953/"
       },
@@ -24,7 +23,5 @@
     "name":"h",
     "id":"12525",
     "country":"India"
-   
-    
-  }
+ }
 }
