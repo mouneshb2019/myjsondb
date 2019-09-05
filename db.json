@@ -9,6 +9,10 @@
       { "id": 3, "title": "Post 3" , "url":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg"
       },
       { "id": 4, "title": "Post 4" , "url":"https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg"
+      },
+      { "id": 5, "title": "Post 5" , "url":"https://images.pexels.com/photos/1477430/pexels-photo-1477430.jpeg?cs=srgb&dl=daylight-early-morning-environment-1477430.jpg&fm=jpg"
+      },
+      { "id": 6, "title": "Post 6" , "url":"https://images.pexels.com/photos/1477430/pexels-photo-1477430.jpeg?cs=srgb&dl=daylight-early-morning-environment-1477430.jpg&fm=jpg"
       }
     ]
   },
